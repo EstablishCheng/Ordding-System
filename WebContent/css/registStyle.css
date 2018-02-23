@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+.D1{
+	width:500px;
+	margin:30px auto;
+	background-color:white;
+}
+.D2{
+	width:300px;
+	height:300px;
+	margin:20px auto; 
+	padding-left:20px;
+}
